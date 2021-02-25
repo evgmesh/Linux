@@ -6,7 +6,7 @@ Scripts can be executed directly (ie. by running ./step1.sh).
 step1.sh
 Script that clears the screen, greets the user by his/her login name, and prints the current date. The greeting must change depending on time (ie. Good morning if time is 8-12, Good afternoon is time is 12-16 etc.).
 
-step2.sh 
+step2.sh /n
 A script that gives a menu for the user where different commands can be run. Commands are include: long file listing of the current working directory, checking how long the system has been on, how much memory is being used and how much is free, disk space usage (whole system), and disk space usage (current working directory).
 
 step3.sh
