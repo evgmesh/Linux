@@ -1,4 +1,6 @@
 #!/bin/bash
+# Group 6 Step 1
+
 clear
 hournow=$(date +%H)
 if [[ $hournow -lt 12 ]]
