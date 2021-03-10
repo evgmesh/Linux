@@ -1,5 +1,5 @@
 # Linux
-Dedicated to my projects in Linux
+Dedicated to my projects in Linux for course Linux and Networks at Metropolia
 
 Scripts can be executed directly (ie. by running ./step1.sh).
 
